@@ -1,0 +1,13 @@
+:root {
+  --dark-purple: #131022;
+  --light-purple: #7026b9;
+  --grey-purple: #232234;
+
+  --ff1: "Montserrat";
+  --ff2: "Poppins";
+  --ff3: "Rubik";
+}
+
+body {
+  background-color: var(--dark-purple);
+}
