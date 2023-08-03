@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rajat-portfolio/static/css/main.76831cde.css",
-    "main.js": "/rajat-portfolio/static/js/main.5b16d396.js",
+    "main.js": "/rajat-portfolio/static/js/main.e84b1800.js",
     "static/media/rajat-square.png": "/rajat-portfolio/static/media/rajat-square.054c855f31bdfcf829cb.png",
     "static/media/computer.jpg": "/rajat-portfolio/static/media/computer.e541e93f9c1c6bfe7b18.jpg",
     "static/media/video.jpg": "/rajat-portfolio/static/media/video.46818a9b2a86a59aad66.jpg",
@@ -9,6 +9,7 @@
     "static/media/adobe.jpg": "/rajat-portfolio/static/media/adobe.81852eb440f4ec01b6c6.jpg",
     "static/media/convincing.png": "/rajat-portfolio/static/media/convincing.948572f384eb4f869530.png",
     "static/media/social.jpg": "/rajat-portfolio/static/media/social.62214dabf52db2ba2b13.jpg",
+    "static/media/rajat-resume.pdf": "/rajat-portfolio/static/media/rajat-resume.c1806fd1c92afcb445a4.pdf",
     "static/media/negotiation.png": "/rajat-portfolio/static/media/negotiation.e8917dac05c77b02abac.png",
     "static/media/handling.jpg": "/rajat-portfolio/static/media/handling.177fc6add77a001ebf12.jpg",
     "static/media/relationship.png": "/rajat-portfolio/static/media/relationship.cb455c22ada388fab38f.png",
@@ -16,10 +17,10 @@
     "static/media/listening-skills.jpg": "/rajat-portfolio/static/media/listening-skills.15f25350761c90ea7247.jpg",
     "index.html": "/rajat-portfolio/index.html",
     "main.76831cde.css.map": "/rajat-portfolio/static/css/main.76831cde.css.map",
-    "main.5b16d396.js.map": "/rajat-portfolio/static/js/main.5b16d396.js.map"
+    "main.e84b1800.js.map": "/rajat-portfolio/static/js/main.e84b1800.js.map"
   },
   "entrypoints": [
     "static/css/main.76831cde.css",
-    "static/js/main.5b16d396.js"
+    "static/js/main.e84b1800.js"
   ]
 }
