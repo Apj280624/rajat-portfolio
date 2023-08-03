@@ -8,6 +8,8 @@ import {
   faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 
+import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
+
 import "../css/navbar.css";
 import "../css/home.css";
 
@@ -24,19 +26,7 @@ function MyNavbar(props) {
             <p className="brand-name">{vars.brandName}</p>
           </a>
 
-          <button
-            className="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarNav"
-            aria-controls="navbarNav"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span className="navbar-toggler-icon"></span>
-          </button>
-
-          <div className="collapse navbar-collapse" id="navbarNav">
+          <div className="" id="navbarNav">
             {/* you can put buttons in two different list item, but the one i used looks good on mobile scrn */}
             <ul className="navbar-nav ms-auto">
               <li className="nav-item active">
@@ -48,8 +38,6 @@ function MyNavbar(props) {
                 >
                   <FontAwesomeIcon icon={faLinkedin} size="2xl" />{" "}
                 </a>
-              </li>
-              <li className="nav-item active">
                 <a
                   href={routes.SIGN_UP}
                   target="_blank"
@@ -58,8 +46,6 @@ function MyNavbar(props) {
                 >
                   <FontAwesomeIcon icon={faTwitter} size="2xl" />{" "}
                 </a>
-              </li>
-              <li className="nav-item active">
                 <a
                   href="https://www.instagram.com/_rajatxo"
                   target="_blank"
@@ -67,6 +53,14 @@ function MyNavbar(props) {
                   className="nav-btn1 btn"
                 >
                   <FontAwesomeIcon icon={faInstagram} size="2xl" />{" "}
+                </a>
+                <a
+                  href="mailto:rajatworkspace89@gmail.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="nav-btn1 btn"
+                >
+                  <FontAwesomeIcon icon={faEnvelope} size="2xl" />{" "}
                 </a>
               </li>
             </ul>

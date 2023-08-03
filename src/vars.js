@@ -37,7 +37,7 @@ const vars = {
   ],
   availableInterviewExperienceYears: ["2020", "2021", "2022"],
   availableDifficulties: ["1", "2", "3", "4", "5"],
-  brandName: "CodeX",
+  brandName: "Rajat",
 };
 
 // routes

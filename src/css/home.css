@@ -10,4 +10,112 @@
 
 body {
   background-color: var(--dark-purple);
+  /* background-color: yellow; */
+}
+
+.home-div {
+  margin: 5rem 6rem 0 6rem;
+  /* border: 2px solid red; */
+}
+
+.rajat-div {
+  text-align: center;
+}
+
+.rajat-img {
+  height: 280px;
+  border-radius: 200px;
+  /* box-shadow: 0px 0px 2px 2px red; */
+  /* box-shadow: 0 0 10px 1px var(--light-purple); */
+}
+
+.name {
+  color: white;
+  font-family: var(--ff1);
+  margin-top: 1.5rem;
+  font-weight: 400;
+}
+
+.desc {
+  color: white;
+  font-family: var(--ff2);
+  font-weight: 300;
+}
+
+.resume-btn {
+  outline: none;
+  border: none;
+  background-color: var(--light-purple);
+  color: white;
+  border-radius: 50px;
+  padding: 12px 60px;
+  font-family: var(--ff1);
+  font-weight: 500;
+  margin-top: 0.6rem;
+  display: inline-block; /* to make margin-top work, else it wont */
+  text-decoration: none;
+}
+
+.resume-btn:hover {
+  color: var(--dark-purple);
+  font-weight: 600;
+}
+
+.tabs-div {
+  margin-top: 3rem;
+}
+
+.sec-div {
+  padding: 3rem 2rem;
+  background-color: var(--grey-purple);
+  margin-bottom: 3rem;
+  border-radius: 1rem;
+  color: white;
+  /* padding: 2rem; */
+  /* border: 2px solid red; */
+}
+
+.heading {
+  font-family: var(--ff1);
+  margin-bottom: 1.8rem;
+  color: white;
+}
+
+.rajat-full-img {
+  height: 200px;
+  border-radius: 200px;
+  margin-left: 0;
+}
+
+.skill-tab-img {
+  width: 80%;
+  /* height: 15rem; */
+
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.margin-div {
+  height: 6rem;
+  width: 100%;
+  background-color: transparent;
+  /* border: 2px solid red; */
+}
+
+/*********************** Mob and tab ************************/
+
+@media (max-width: 768px) and (min-width: 576px) {
+  .home-div {
+    margin: 5rem 3rem 0 3rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .home-div {
+    margin: 9rem 1rem 0 1rem;
+  }
+
+  .rajat-img {
+    height: 240px;
+  }
 }

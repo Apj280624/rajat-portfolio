@@ -1,0 +1,25 @@
+.nav-tab-div {
+  background-color: var(--grey-purple);
+  padding: 2rem 0 2rem 0;
+  border-radius: 1rem;
+  margin-top: 13px;
+  margin-bottom: 13px;
+}
+
+.nav-tab-a {
+  color: white;
+  margin: 0;
+  font-family: var(--ff2);
+  font-size: 1.6rem;
+  text-decoration: none;
+}
+
+.nav-tab-a:hover {
+  color: white;
+}
+
+@media (max-width: 576px) {
+  .nav-tab-a {
+    font-size: 1.2rem;
+  }
+}
