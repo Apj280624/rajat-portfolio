@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rajat-portfolio/static/css/main.76831cde.css",
-    "main.js": "/rajat-portfolio/static/js/main.e84b1800.js",
+    "main.css": "/rajat-portfolio/static/css/main.2e94a6b6.css",
+    "main.js": "/rajat-portfolio/static/js/main.206d6975.js",
     "static/media/rajat-square.png": "/rajat-portfolio/static/media/rajat-square.054c855f31bdfcf829cb.png",
     "static/media/computer.jpg": "/rajat-portfolio/static/media/computer.e541e93f9c1c6bfe7b18.jpg",
     "static/media/video.jpg": "/rajat-portfolio/static/media/video.46818a9b2a86a59aad66.jpg",
@@ -16,11 +16,11 @@
     "static/media/ms-office.jpg": "/rajat-portfolio/static/media/ms-office.829944b41ba835a6ec99.jpg",
     "static/media/listening-skills.jpg": "/rajat-portfolio/static/media/listening-skills.15f25350761c90ea7247.jpg",
     "index.html": "/rajat-portfolio/index.html",
-    "main.76831cde.css.map": "/rajat-portfolio/static/css/main.76831cde.css.map",
-    "main.e84b1800.js.map": "/rajat-portfolio/static/js/main.e84b1800.js.map"
+    "main.2e94a6b6.css.map": "/rajat-portfolio/static/css/main.2e94a6b6.css.map",
+    "main.206d6975.js.map": "/rajat-portfolio/static/js/main.206d6975.js.map"
   },
   "entrypoints": [
-    "static/css/main.76831cde.css",
-    "static/js/main.e84b1800.js"
+    "static/css/main.2e94a6b6.css",
+    "static/js/main.206d6975.js"
   ]
 }
