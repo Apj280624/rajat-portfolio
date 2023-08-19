@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rajat-portfolio/static/css/main.ca6d9726.css",
+    "main.css": "/rajat-portfolio/static/css/main.fb003817.css",
     "main.js": "/rajat-portfolio/static/js/main.09b0bc57.js",
     "static/media/rajat-square.png": "/rajat-portfolio/static/media/rajat-square.054c855f31bdfcf829cb.png",
     "static/media/computer.jpg": "/rajat-portfolio/static/media/computer.e541e93f9c1c6bfe7b18.jpg",
@@ -18,11 +18,11 @@
     "static/media/ms-office.jpg": "/rajat-portfolio/static/media/ms-office.829944b41ba835a6ec99.jpg",
     "static/media/listening-skills.jpg": "/rajat-portfolio/static/media/listening-skills.15f25350761c90ea7247.jpg",
     "index.html": "/rajat-portfolio/index.html",
-    "main.ca6d9726.css.map": "/rajat-portfolio/static/css/main.ca6d9726.css.map",
+    "main.fb003817.css.map": "/rajat-portfolio/static/css/main.fb003817.css.map",
     "main.09b0bc57.js.map": "/rajat-portfolio/static/js/main.09b0bc57.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca6d9726.css",
+    "static/css/main.fb003817.css",
     "static/js/main.09b0bc57.js"
   ]
 }
